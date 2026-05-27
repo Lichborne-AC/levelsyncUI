@@ -31,30 +31,6 @@ LevelSync provides a graphical interface that lets you view your levelsync group
    ```
 3. Launch WoW and enable **LevelSync** on the addon selection screen
 
-## IP Tier Reference
-
-| Tier | Content |
-|------|---------|
-| 0 | None |
-| 1 | Molten Core |
-| 2 | Onyxia |
-| 3 | Blackwing Lair |
-| 4 | Pre-AQ |
-| 5 | AQ War Effort |
-| 6 | Ahn'Qiraj |
-| 7 | Naxxramas (40) |
-| 8 | Pre-TBC |
-| 9 | Karazhan / Gruul / Magtheridon |
-| 10 | Serpentshrine Cavern / Tempest Keep |
-| 11 | Hyjal Summit / Black Temple |
-| 12 | Zul'Aman |
-| 13 | Sunwell Plateau |
-| 14 | Naxxramas / Eye of Eternity / Obsidian Sanctum |
-| 15 | Ulduar |
-| 16 | Trial of the Crusader |
-| 17 | Icecrown Citadel |
-| 18 | Ruby Sanctum |
-
 ## File Structure
 
 ```
